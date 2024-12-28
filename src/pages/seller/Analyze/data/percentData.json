@@ -1,0 +1,32 @@
+[
+    {
+      "product": "Electronics",
+      "addToCartPercentage": 45,
+      "favoritePercentage": 60
+    },
+    {
+      "product": "Fashion",
+      "addToCartPercentage": 30,
+      "favoritePercentage": 70
+    },
+    {
+      "product": "Home Appliances",
+      "addToCartPercentage": 25,
+      "favoritePercentage": 50
+    },
+    {
+      "product": "Books",
+      "addToCartPercentage": 55,
+      "favoritePercentage": 65
+    },
+    {
+      "product": "Toys",
+      "addToCartPercentage": 35,
+      "favoritePercentage": 40
+    },
+    {
+      "product": "Beauty Products",
+      "addToCartPercentage": 20,
+      "favoritePercentage": 75
+    }
+  ]

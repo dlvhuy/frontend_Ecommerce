@@ -1,0 +1,14 @@
+[
+    { "label": "January", "cost": 21000, "revenue": 32000 },
+  { "label": "February", "cost": 15000, "revenue": 28000 },
+  { "label": "March", "cost": 27000, "revenue": 35000 },
+  { "label": "April", "cost": 22000, "revenue": 29000 },
+  { "label": "May", "cost": 18000, "revenue": 25000 },
+  { "label": "June", "cost": 26000, "revenue": 40000 },
+  { "label": "July", "cost": 23000, "revenue": 31000 },
+  { "label": "August", "cost": 20000, "revenue": 27000 },
+  { "label": "September", "cost": 25000, "revenue": 36000 },
+  { "label": "October", "cost": 19000, "revenue": 24000 },
+  { "label": "November", "cost": 30000, "revenue": 41000 },
+  { "label": "December", "cost": 35000, "revenue": 50000 }
+  ]
